@@ -31,3 +31,4 @@ for verschiebung in range(posz-posa):
     print( verschiebung,'. ', caesar('Hslh qhjah lza', verschiebung)) 
     
 #Die Lösung ist alea jacta est mit erzielt mit einer verschiebung von 7
+#daher soll die Testfunkion überprüfen ob das auch als Lösung herrauskommt
